@@ -1,0 +1,5 @@
+export const demoUsers=[
+{id:'author-kirana',username:'kirana_arsya',displayName:'Kirana Arsya',bio:'Menulis tentang pertemuan kecil yang mengubah dunia seseorang. Penyuka senja dan teh hangat.',avatar:'KA',joinedAt:'2024-02-12',followers:1280,following:86,badges:['Penulis Pilihan','Konsisten Menulis']},
+{id:'author-reyhan',username:'reyhan_alvaro',displayName:'Reyhan Alvaro',bio:'Membangun dunia fantasi, pahlawan yang ragu, dan pilihan yang tidak mudah.',avatar:'RA',joinedAt:'2024-05-09',followers:940,following:102,badges:['Worldbuilder']},
+{id:'author-luna',username:'luna_septiani',displayName:'Luna Septiani',bio:'Cerita misteri dengan serpihan harapan. Kadang gelap, tetapi tidak pernah benar-benar sendirian.',avatar:'LS',joinedAt:'2023-11-18',followers:2160,following:75,badges:['Pilihan Editor']},
+{id:'author-dimas',username:'dimas_akbar',displayName:'Dimas Akbar',bio:'Menulis petualangan, persahabatan, dan perjalanan pulang.',avatar:'DA',joinedAt:'2025-01-04',followers:512,following:41,badges:[]}];
